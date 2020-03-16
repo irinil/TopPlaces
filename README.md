@@ -16,7 +16,7 @@ This project is deprecated now. This was one of my first Android projects. It wa
 
 ### Demo Images
 
-![alt text](http://TopPlaces/blob/master/app/screenshot/Screenshot 2016-06-20 22.59.57.png)
-![alt text](http://TopPlaces/blob/master/app/screenshot/Screenshot 2016-06-20 23.00.17.png)
-![alt text](http://TopPlaces/blob/master/app/screenshot/Screenshot 2016-06-20 23.05.47.png)
-![alt text](http://TopPlaces/blob/master/app/screenshot/Screenshot 2016-06-20 23.06.14.png)
+![alt text](https://github.com/irinil/TopPlaces/blob/master/app/screenshot/Screenshot%202016-06-20%2022.59.57.png)
+![alt text](https://github.com/irinil/TopPlaces/blob/master/app/screenshot/Screenshot%202016-06-20%2023.00.17.png)
+![alt text](https://github.com/irinil/TopPlaces/blob/master/app/screenshot/Screenshot%202016-06-20%2023.05.47.png)
+![alt text](https://github.com/irinil/TopPlaces/blob/master/app/screenshot/Screenshot%202016-06-20%2023.06.14.png)
