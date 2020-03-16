@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Distributed Systems</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dstr">Distributed   Systems Project</string>
+    <string name="top">TOP</string>
+    <string name="addcheck">Add Checkin</string>
+    <string name="information">Info</string>
+    <string name="openCamera">Open Camera</string>
+    <string name="addphoto">Add photo</string>
+    <string name="photo">Photo</string>
+    <string name="latmin">LatitudeMin</string>
+    <string name="latmax">LatitudeMax</string>
+    <string name="longtmin">LongitudeMin</string>
+    <string name="longtmax">LongitudeMax</string>
+
+    <string name="dateto">To Date</string>
+    <string name="datefrom">From Date</string>
+
+    <string name="timefrom">From Time</string>
+    <string name="timeto">To Time</string>
+    <string name="port">Port</string>
+    <string name="ip">Ip</string>
+</resources>
